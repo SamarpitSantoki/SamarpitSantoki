@@ -30,26 +30,6 @@ I am also developing interest in open-source projects. I learned a lot from the 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          23 hrs 15 mins  ███████████████████████▒░   92.99 % 
-HTML         1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-<!--END_SECTION:waka-->
-
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samarpitsantoki&show_icons=true&theme=gotham" alt="samarpitsantoki" />
