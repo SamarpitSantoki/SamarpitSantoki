@@ -9,12 +9,13 @@
   <img align="left" alt="Samarpit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=samarpitsantoki.samrpitsantoki)
 
-<br />
+<br/>
 
 Hi, I'm [Samarpit Santoki](https://www.charusat.ac.in/),
 a student at [Charusat University](https://www.charusat.ac.in/). My current interests are Web Development, Game Development and learning Linux(I'm obessed with it at the moment).Also I love to know more about latest technology and to watch anime in my free time.
+<br/>
 I am also developing interest in open-source projects. I learned a lot from the open-source community and hope to be able to help others. 
   <img align="right" alt="GIF" src="https://github.com/samarpitsantoki/samarpitsantoki/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -29,7 +30,7 @@ I am also developing interest in open-source projects. I learned a lot from the 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 JSX          23 hrs 15 mins  ███████████████████████▒░   92.99 % 
@@ -49,7 +50,7 @@ SCSS         1 min           ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samarpitsantoki&show_icons=true&theme=gotham" alt="samarpitsantoki" />
 
