@@ -13,7 +13,7 @@
 
 <br/>
 
-Hi, I'm [Samarpit Santoki](https://www.charusat.ac.in/),
+Hi, I'm [Samarpit Santoki](https://www.instagram.com/samarpit_santoki),
 a student at [Charusat University](https://www.charusat.ac.in/). My current interests are Web Development, Game Development and learning Linux(I'm obessed with it at the moment).Also I love to know more about latest technology and to watch anime in my free time.
 <br/>
 I am also developing interest in open-source projects. I learned a lot from the open-source community and hope to be able to help others. <br/><br/>
