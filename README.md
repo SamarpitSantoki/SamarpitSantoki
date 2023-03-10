@@ -13,10 +13,11 @@
 
 <br/>
 
-Hi, I'm [Samarpit Santoki](https://www.instagram.com/samarpit_santoki),
-a student at [Charusat University](https://www.charusat.ac.in/). My current interests are Web Development, Game Development and learning Linux(I'm obsessed with it at the moment).Also I love to know more about latest technology and to watch anime in my free time.
+
+Hi There✌️ , I'm [Samarpit Santoki](https://www.instagram.com/samarpit_santoki), a Full-Stack Developer pursuing my B.Tech degree in Computer Engineering. I have 2 years of working experience in Web Development. Some of the technologies I have worked on are ReactJS, Nextjs, Vue, Express, Flutter, React-Native, Mongodb. Currently I'm learning about System Architecture to take my backend skills to next level. 
 <br/>
-I am also developing interest in open-source projects. I learned a lot from the open-source community and hope to be able to help others. <br/><br/>
+Working on some good personal projects, Contact if you want to be part of something awesome ☺️👍
+<br/><br/>
   <img align="right" alt="GIF" src="https://github.com/SamarpitSantoki/SamarpitSantoki/blob/db87d8a4b2f59764608534502a4c0335fa6a9e7b/code.gif?raw=true" width="500" height="320" />
   <br/>
 - 💼 Any freelance work? Do reach, [Email](mailto:samarpit.santoki@gmail.com) :)
