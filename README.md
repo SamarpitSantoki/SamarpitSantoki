@@ -14,7 +14,7 @@
 <br/>
 
 
-Hi There✌️ , I'm [Samarpit Santoki](https://www.instagram.com/samarpit_santoki), a Full-Stack Developer pursuing my B.Tech degree in Computer Engineering. I have 2 years of working experience in Web Development. Some of the technologies I have worked on are ReactJS, Nextjs, Vue, Express, Flutter, React-Native, Mongodb. Currently I'm learning about System Architecture to take my backend skills to next level. 
+Hi There✌️ , I'm [Samarpit Santoki](https://www.samarpit.dev), a Full-Stack Developer pursuing my B.Tech degree in Computer Engineering. I have 2 years of working experience in Web Development. Some of the technologies I have worked on are ReactJS, Nextjs, Vue, Express, Flutter, React-Native, Mongodb. Currently I'm learning about System Architecture to take my backend skills to next level. 
 <br/>
 Working on some good personal projects, Contact if you want to be part of something awesome ☺️👍
 <br/><br/>
